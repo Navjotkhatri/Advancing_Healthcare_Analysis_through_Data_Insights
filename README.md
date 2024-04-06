@@ -103,8 +103,9 @@ The Healthcare Data Analysis project utilizes Power BI to analyze and derive ins
 - Understanding patient demographics and treatment patterns is essential for optimizing healthcare delivery and resource allocation.
 - Data-driven decision-making can help healthcare organizations identify areas for improvement and implement targeted interventions to enhance outcomes.
 - Continuous monitoring and analysis of healthcare metrics are essential for identifying trends and addressing emerging challenges in the healthcare sector.
-
-<img src="https://github.com/Navjotkhatri/Advancing_Healthcare_Analysis_through_Data_Insights/blob/main/Screenshot%202024-04-04%20135458.png" alt="Dashboard" />
+<div style="text-align:center;">
+    <img src="https://github.com/Navjotkhatri/Advancing_Healthcare_Analysis_through_Data_Insights/blob/main/Screenshot%202024-04-06%20141240.png" alt="Dashboard" />
+</div>
 
 ## Acknowledgments
 
